@@ -1,0 +1,8 @@
+imutils==0.5.2
+minecart==0.3.0
+numpy==1.16.0
+Pillow==5.4.1
+ply==3.11
+pytesseract==0.2.6
+scipy==1.2.0
+six==1.12.0
