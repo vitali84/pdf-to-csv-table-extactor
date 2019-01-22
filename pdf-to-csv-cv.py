@@ -11,7 +11,7 @@ from imutils.perspective import four_point_transform
 from imutils.contours import sort_contours
 import argparse
 
-DEBUG = True
+DEBUG = False
 ROW_MIN_HEIGHT = 5 #in px
 COLUMN_MIN_WIDTH = 5
 PADDING = 2
