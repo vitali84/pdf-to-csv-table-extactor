@@ -29,7 +29,7 @@ this will create test.pdf.csv output file
 ## 1. Extract image from each pdf page
    ![original](images/original.jpg)
 
-## 2. Threshold + blur + bitwize not  image:
+## 2. Threshold + blur + bitwise not image:
    ![thresholded](images/thresholded.jpg)
 
 ## 3. find largest contour with largest area (hopefully our table), fix perspective using four point transform
